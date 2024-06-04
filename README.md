@@ -1,2 +1,3 @@
-# Brickz_breaker
-a lite version of bricks game
+# brickz_breaker
+
+A new Flutter project.
